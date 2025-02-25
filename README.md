@@ -1,4 +1,4 @@
-# Hospitality Analytics Portfolio
+# Hospitality Analytics
 
 ## Project Overview
 This repository showcases a comprehensive data analysis project focused on the hospitality industry. The goal is to leverage data-driven insights to optimize business performance and operational efficiency. The project encompasses the entire data lifecycle—from data ingestion and cleaning to exploratory data analysis (EDA), feature engineering, statistical analysis, and interactive dashboard creation.
@@ -22,7 +22,6 @@ The project tracks several essential KPIs on a week-over-week (WoW) basis:
 - **Realisation WoW Change %**: Week-over-week change in revenue realisation.
 - **DSRN (Daily Sellable Room Nights) WoW Change %**: Shifts in the number of sellable room nights.
 
-For an in-depth explanation of the calculation methodologies (including Power BI DAX formulas), see the [Helper Document](./Helper%20Document%20-%20hospitality.pdf) :contentReference[oaicite:1]{index=1}.
 
 ## Data Analysis Methodology
 The project follows a structured data analysis approach:
@@ -58,11 +57,10 @@ The interactive dashboard visualizes key metrics and trends. It includes filters
 
 **Dashboard Screenshots:**
 
-![Dashboard Screenshot 1](./path/to/Screenshot_2025-02-25_162645.png)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/18483021-ef80-42d2-bece-d5801565772c)
 
-![Dashboard Screenshot 2](./path/to/Screenshot_2025-02-25_162722.png)
 
-*Replace the image paths with your actual screenshot file locations.*
+![Data Model](https://github.com/user-attachments/assets/20ec83b9-3841-4c8b-85b2-04e70d17f562)
 
 ## Best Practices and Data Analysis Philosophy
 - **Data-Driven Decision Making:**  
