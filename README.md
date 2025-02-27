@@ -3,6 +3,9 @@
 ## Project Overview
 This repository showcases a comprehensive data analysis project focused on the hospitality industry. The goal is to leverage data-driven insights to optimize business performance and operational efficiency. The project encompasses the entire data lifecycle—from data ingestion and cleaning to exploratory data analysis (EDA), feature engineering, statistical analysis, and interactive dashboard creation.
 
+## Link
+https://app.powerbi.com/view?r=eyJrIjoiMjAwY2M5MTItYjg0NC00NzZhLTlhZGQtZjAxYTg0MTgzMWFmIiwidCI6IjQ4NWRjNjkyLWQwMGEtNGFkMi05ZTdiLTBhZmU2OTg5NjRiOCJ9
+
 ## Data Sources and Description
 The analysis uses multiple CSV files, including:
 - **dim_date**: Contains date-related details such as week numbers and day types.
